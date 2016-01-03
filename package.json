@@ -41,6 +41,6 @@
   "scripts": {
     "release": "babel src --out-dir dist",
     "test": "node test",
-    "watch": "node test --watch"
+    "dev": "node test --watch"
   }
 }
