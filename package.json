@@ -1,0 +1,27 @@
+{
+  "name": "babel-plugin-transform-cssx",
+  "version": "0.1.0",
+  "description": "Babel plugin that transforms CSS to CSSX",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krasimir/babel-plugin-transform-cssx.git"
+  },
+  "keywords": [
+    "css",
+    "cssx",
+    "babel",
+    "plugin",
+    "transform",
+    "transpiler"
+  ],
+  "author": "Krasimir Tsonev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krasimir/babel-plugin-transform-cssx/issues"
+  },
+  "homepage": "https://github.com/krasimir/babel-plugin-transform-cssx"
+}
