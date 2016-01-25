@@ -1,1 +1,1 @@
-hiThere();
+var a = b + c;

@@ -1,4 +1,3 @@
 "use strict";
-
 "use helloworld";
-hiThere();
+var a = b + c;
